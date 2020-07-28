@@ -1,4 +1,18 @@
-### 这里是极客挖掘机的代码仓库 👋
+### Hi, I'm Geekdigging 👋
+
+- 🔭 公众号：极客挖掘机
+- 🌱 博客：https://www.geekdigging.com/
+- 👯 CSDN：https://blog.csdn.net/meteor_93
+- 🤔 博客园：https://www.cnblogs.com/babycomeon/
+- 💬 掘金：https://juejin.im/user/5d1ff49c6fb9a07eb67db07b
+- 📫 简介：一个破写代码的
+
+### 联系我
+
+- 邮箱：inwsy@hotmail.com
+- 微信：allen_6174
+
+### Wakatime 统计信息
 
 <!--START_SECTION:waka-->
 ```text
@@ -12,13 +26,14 @@ Properties   33 mins         ░░░░░░░░░░░░░░░░░
 
 ### Gtihub 统计信息
 
-<figure class="third">
-
 [![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/meteor1993)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteor1993&theme=tokyonight)](https://github.com/meteor1993)
 
-</figure>
+### TODO
+
+1. 日更 「每日一道 LeetCode」
+2. 周更 「Python 图像处理 OpenCV」
 
 <!--
 **meteor1993/meteor1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
