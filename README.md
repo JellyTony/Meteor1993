@@ -15,13 +15,6 @@
 ### Wakatime 统计信息
 
 <!--START_SECTION:waka-->
-```text
-Java         11 hrs 30 mins  ██████████████░░░░░░░░░░░   55.87 % 
-Markdown     4 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Python       3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Text         42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Properties   33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-```
 <!--END_SECTION:waka-->
 
 ### Gtihub 统计信息
