@@ -1,6 +1,14 @@
-### Hi there 👋
+### 这里是极客挖掘机的代码仓库 👋
 
-[![Meteor1993's github stats](https://github-readme-stats.vercel.app/api?username=meteor1993)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<details>
+<summary>GitHub 统计信息</summary>
+
+[![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteor1993&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **meteor1993/meteor1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
