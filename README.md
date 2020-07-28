@@ -28,8 +28,6 @@ Properties   33 mins         ░░░░░░░░░░░░░░░░░
 
 [![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/meteor1993)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteor1993&theme=tokyonight)](https://github.com/meteor1993)
-
 ### TODO
 
 1. 日更 「每日一道 LeetCode」
