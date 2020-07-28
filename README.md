@@ -7,10 +7,10 @@
 - 💬 掘金：https://juejin.im/user/5d1ff49c6fb9a07eb67db07b
 - 📫 简介：一个破写代码的
 
-### 联系我
+### TODO
 
-- 邮箱：inwsy@hotmail.com
-- 微信：allen_6174
+1. 日更 「每日一道 LeetCode」
+2. 周更 「Python 图像处理 OpenCV」
 
 ### Wakatime 统计信息
 
@@ -65,10 +65,10 @@ Windows                  20 hrs 36 mins      ███████████�
 
 [![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/meteor1993)
 
-### TODO
+### 联系我
 
-1. 日更 「每日一道 LeetCode」
-2. 周更 「Python 图像处理 OpenCV」
+- 邮箱：inwsy@hotmail.com
+- 微信：allen_6174
 
 <!--
 **meteor1993/meteor1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
