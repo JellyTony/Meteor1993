@@ -12,9 +12,13 @@ Properties   33 mins         ░░░░░░░░░░░░░░░░░
 
 ### Gtihub 统计信息
 
+<figure class="third">
+
 [![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/meteor1993)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteor1993&theme=tokyonight)](https://github.com/meteor1993)
+
+</figure>
 
 <!--
 **meteor1993/meteor1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
