@@ -1,4 +1,4 @@
-### Hi, I'm Geekdigging 👋
+### Hi, I'm 极客挖掘机 👋
 
 - 🔭 公众号：极客挖掘机
 - 🌱 博客：https://www.geekdigging.com/
