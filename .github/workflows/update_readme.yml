@@ -3,8 +3,8 @@ name: Waka-Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # 国际标准时间下午 16 点，北京时间晚上 0 点
+    - cron: '0 16 * * *'
 
 jobs:
   update-readme:
