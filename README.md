@@ -13,7 +13,9 @@
 | 周更 [「Python 图像处理 OpenCV」](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1343718009222905856&__biz=MzUyNzY5OTE5Mw==#wechat_redirect) | [「小白学 Python 爬虫篇」](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1332113498490454017&__biz=MzUyNzY5OTE5Mw==#wechat_redirect) | [「老司机带你玩转面试」](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1426620567901552640&__biz=MzUyNzY5OTE5Mw==#wechat_redirect) |                                                              |
 |                                                              | [「小白学 Python 数据分析篇」](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1332116382040899585&__biz=MzUyNzY5OTE5Mw==#wechat_redirect) |                                                              |                                                              |
 
-### Wakatime 统计信息
+<details>
+
+<summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
 📊 **This week I spent my time on** 
@@ -39,14 +41,26 @@ Windows                  36 hrs 8 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-### Gtihub 统计信息
+</details>
+
+<details>
+
+<summary>Gtihub 统计信息</summary>
 
 [![meteor1993's Github Stats](https://github-readme-stats.vercel.app/api?username=meteor1993&show_icons=true&theme=tokyonight)](https://github.com/meteor1993)
 
-### 联系我
+</details>
+
+<details>
+
+<summary>联系我</summary>
+
+<!-- ### 联系我 -->
 
 - 邮箱：inwsy@hotmail.com
 - 微信：allen_6174
+
+</details>
 
 <!--
 **meteor1993/meteor1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
