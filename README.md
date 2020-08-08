@@ -18,13 +18,13 @@
 <summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4.6%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 375 Contributions in year 2020
+> 🏆 381 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
@@ -57,10 +57,10 @@ Windows                  59 hrs 47 mins      ███████████�
 **I mostly code in Java** 
 
 ```text
-Java         9 repos        █████████████████░░░░░░░░   69.23% 
-JavaScript   2 repos        ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Lua          1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-HTML         1 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Java                     9 repos             █████████████████░░░░░░░░   69.23% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Lua                      1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+HTML                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
