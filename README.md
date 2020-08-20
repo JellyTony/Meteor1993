@@ -18,23 +18,23 @@
 <summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-748412%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 422 Contributions in the year 2020
+> 🏆 425 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public repositories
+> 📜 18 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -44,7 +44,7 @@ Groovy                   4 hrs 10 mins       ██░░░░░░░░░�
 XML                      3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
 Properties               43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
-🔥 Code Editors: 
+🔥 Editors: 
 IntelliJ                 33 hrs              ██████████████████░░░░░░░   72.39% 
 VS Code                  12 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.61%
 
