@@ -20,17 +20,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381776%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306234%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 515 Contributions in the Year 2020
+> 🏆 519 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 20 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -57,10 +57,10 @@ Windows                  30 hrs 5 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             █████████████████░░░░░░░░   69.23% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Java                     10 repos            █████████████████░░░░░░░░   71.43% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
