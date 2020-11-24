@@ -18,13 +18,13 @@
 <summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-387446%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 583 Contributions in the Year 2020
+> 🏆 584 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -67,7 +67,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/meteor1993/meteor1993/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/meteor1993/meteor1993/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
