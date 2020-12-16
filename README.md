@@ -32,7 +32,7 @@
  > 
 > 📜 24 Public Repositories 
  > 
-24 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
